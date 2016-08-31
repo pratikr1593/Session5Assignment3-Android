@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+
+    tools:context="com.example.pratikratnaparkhi.acadgildcourses.MainActivity"
+    android:weightSum="1">
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="220dp"
+        android:layout_height="60dp"
+        android:text="@string/Java"
+        android:gravity="center"
+        android:onClick="java"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+
+    <Button
+        android:id="@+id/Button2"
+        android:layout_width="220dp"
+        android:layout_height="60dp"
+        android:text="@string/Android"
+        android:gravity="center"
+        android:onClick="java"
+        android:layout_below="@id/button1"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+
+    <Button
+        android:id="@+id/Button3"
+        android:layout_width="220dp"
+        android:layout_height="60dp"
+        android:text="@string/FrontEnd"
+        android:onClick="java"
+        android:gravity="center"
+        android:layout_below="@id/Button2"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+
+    <Button
+        android:id="@+id/Button4"
+        android:onClick="java"
+        android:layout_width="220dp"
+        android:layout_height="60dp"
+        android:text="@string/BigData"
+        android:gravity="center"
+        android:layout_below="@id/Button3"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+
+    <Button
+        android:id="@+id/Button5"
+        android:layout_width="220dp"
+        android:layout_height="60dp"
+        android:text="@string/DigitalMarketing"
+        android:gravity="center"
+        android:onClick="java"
+        android:layout_below="@id/Button4"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+
+    <Button
+        android:id="@+id/Button6"
+        android:layout_width="220dp"
+        android:layout_height="60dp"
+        android:onClick="java"
+        android:text="@string/ScalaProgramming"
+        android:gravity="center"
+        android:layout_below="@id/Button5"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:id="@+id/Button7"
+        android:layout_width="220dp"
+        android:layout_height="60dp"
+        android:text="@string/NodeJS"
+        android:gravity="center"
+        android:onClick="java"
+        android:layout_below="@id/Button6"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:id="@+id/Button8"
+        android:layout_width="220dp"
+        android:layout_height="60dp"
+        android:text="@string/FullStack"
+        android:gravity="center"
+        android:onClick="java"
+        android:layout_below="@id/Button7"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:id="@+id/Button9"
+        android:layout_width="220dp"
+        android:layout_height="60dp"
+        android:text="@string/AdvanceJ2ee"
+        android:gravity="center"
+        android:onClick="java"
+        android:layout_below="@id/Button8"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+    <Button
+        android:id="@+id/Button10"
+        android:layout_width="220dp"
+        android:layout_height="60dp"
+        android:text="@string/Robotics"
+        android:gravity="center"
+        android:onClick="java"
+        android:layout_below="@id/Button9"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+    <Button
+        android:id="@+id/Button11"
+        android:layout_width="220dp"
+        android:layout_height="60dp"
+        android:text="@string/Business_Analytics"
+        android:gravity="center"
+        android:layout_below="@id/Button10"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:onClick="java"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+    <Button
+        android:id="@+id/Button12"
+        android:layout_width="220dp"
+        android:layout_height="60dp"
+        android:text="@string/MachineLearning"
+        android:gravity="center"
+        android:layout_below="@id/Button11"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:onClick="java"
+        android:layout_alignParentStart="true" />
+    <Button
+        android:id="@+id/Button13"
+        android:layout_width="220dp"
+        android:layout_height="60dp"
+        android:onClick="java"
+        android:text="@string/CloudComputing"
+        android:gravity="center"
+        android:layout_below="@id/Button12"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+    <Button
+        android:id="@+id/Button14"
+        android:layout_width="220dp"
+        android:onClick="java"
+        android:layout_height="60dp"
+        android:text="@string/ApacheSpark"
+        android:gravity="center"
+        android:layout_below="@id/Button13"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+    <Button
+        android:id="@+id/Button15"
+        android:layout_width="220dp"
+        android:layout_height="60dp"
+        android:onClick="java"
+        android:text="@string/Arduino"
+        android:gravity="center"
+        android:layout_below="@id/Button14"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+    <Button
+        android:id="@+id/Button16"
+        android:layout_width="220dp"
+        android:layout_height="60dp"
+        android:text="@string/RaspberryPi"
+        android:onClick="java"
+        android:gravity="center"
+        android:layout_below="@id/Button15"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+    <Button
+        android:id="@+id/Button17"
+        android:layout_width="220dp"
+        android:layout_height="60dp"
+        android:text="@string/Unity2D"
+        android:gravity="center"
+        android:onClick="java"
+        android:layout_below="@id/Button16"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+    <Button
+        android:id="@+id/Button18"
+        android:layout_width="220dp"
+        android:layout_height="60dp"
+        android:text="@string/iOS"
+        android:gravity="center"
+        android:onClick="java"
+        android:layout_below="@id/Button17"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+    <Button
+        android:id="@+id/Button19"
+        android:layout_width="220dp"
+        android:layout_height="60dp"
+        android:text="@string/ReactJS"
+        android:gravity="center"
+        android:onClick="java"
+        android:layout_below="@id/Button18"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+    <Button
+        android:id="@+id/Button20"
+        android:layout_width="220dp"
+        android:layout_height="60dp"
+        android:text="@string/Ethical_Hacking"
+        android:gravity="center"
+        android:onClick="java"
+        android:layout_below="@id/Button19"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+    <Button
+        android:id="@+id/Button21"
+        android:layout_width="220dp"
+        android:layout_height="60dp"
+        android:text="@string/ITIL"
+        android:onClick="java"
+        android:gravity="center"
+        android:layout_below="@id/Button20"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:id="@+id/Button22"
+        android:onClick="java"
+        android:layout_width="220dp"
+        android:layout_height="60dp"
+        android:text="@string/Prince2"
+        android:gravity="center"
+        android:layout_below="@id/Button21"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+    <Button
+        android:onClick="java"
+        android:id="@+id/Button23"
+        android:layout_width="220dp"
+        android:layout_height="60dp"
+        android:text="@string/MongoDB"
+        android:gravity="center"
+        android:layout_below="@id/Button22"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+
+
+</RelativeLayout>
+    </ScrollView>

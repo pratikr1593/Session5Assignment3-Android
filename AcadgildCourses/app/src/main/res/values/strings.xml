@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Courses Offered By Acadgild</string>
+    <string name="Java">Java</string>
+    <string name="Android">Android Development</string>
+    <string name="FrontEnd">FrontEnd Development</string>
+    <string name="BigData">Big Data</string>
+    <string name="DigitalMarketing">Digital Marketing</string>
+    <string name="ScalaProgramming">Scala Programming</string>
+    <string name="NodeJS">NodeJS</string>
+    <string name="FullStack">FullStack Web Developer</string>
+    <string name="AdvanceJ2ee">Advance J2e</string>
+    <string name="Robotics">Robotics</string>
+    <string name="Business_Analytics">Business Analytics</string>
+    <string name="CloudComputing">Cloud ComputingR</string>
+    <string name="ApacheSpark">ApacheSpark</string>
+    <string name="DataScience">Data Science</string>
+    <string name="Arduino">Arduino</string>
+    <string name="RaspberryPi">RaspberryPi</string>
+    <string name="Unity2D">unity2D</string>
+    <string name="iOS">iOS programming</string>
+    <string name="ReactJS">React JS</string>
+    <string name="Ethical_Hacking">Ethical Hacking</string>
+    <string name="ITIL">ITIL</string>
+    <string name="Prince2">Prince2</string>
+    <string name="MachineLearning">Machine Learning</string>
+    <string name="MongoDB">MongoDB</string>
+
+
+    <string name="JavaTrainer">Java is being Trained by \nS Rajesh Kumar</string>
+
+
+</resources>
