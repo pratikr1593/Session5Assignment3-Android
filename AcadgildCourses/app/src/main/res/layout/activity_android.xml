@@ -22,7 +22,7 @@
         android:id="@+id/Text2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Android is being trained by Akhilesh Tiwari"
+        android:text="@string/AndroidTrainer"
         android:textSize="25sp"
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true" />

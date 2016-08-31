@@ -27,6 +27,30 @@
 
 
     <string name="JavaTrainer">Java is being Trained by \nS Rajesh Kumar</string>
+    <string name="AndroidTrainer">Android is being Trained by \n Akhilesh Tiwari</string>
+    <string name="FrontEndTrainer">Frontend is being Trained by \n Kyra/Sarah </string>
+    <string name="BigDataTrainerr">BigData is being Trained by \n Crane/ Vihan </string>
+    <string name="DigitalMArketingTrainer">DigitalMarketing is being Trained by \n Rajesh Kumar</string>
+    <string name="ScalaTrainer">Scala is being Trained by \nS Rajesh Kumar</string>
+    <string name="NodeJsTrainer">NodeJS is being Trained by \nS Rajesh Kumar</string>
+    <string name="FullStackTrainer">FullStack Development is being Trained by \nS Rajesh Kumar</string>
+    <string name="AdvanceJ2eeTrainer">AdvanceJ2ee is being Trained by \nS Rajesh Kumar</string>
+    <string name="RoboticsTrainer">Robotics is being Trained by \nS Rajesh Kumar</string>
+    <string name="AnalyticsTrainer">Business Analytics is being Trained by \nS Rajesh Kumar</string>
+    <string name="CloudComputingTrainer">CloudComputing is being Trained by \nS Rajesh Kumar</string>
+    <string name="ApacheSparkTrainer">ApacheSpark is being Trained by \nS Rajesh Kumar</string>
+    <string name="DataScienceTrainer">Data Science is being Trained by \nS Rajesh Kumar</string>
+    <string name="ArduinoTrainer">Arduino is being Trained by \nS Rajesh Kumar</string>
+    <string name="RaspberryTrainer">Raspberry is being Trained by \nS Rajesh Kumar</string>
+    <string name="Unity2dTrainer">Unity is being Trained by \nS Rajesh Kumar</string>
+    <string name="iOsTrainer">iOS is being Trained by \nS Rajesh Kumar</string>
+    <string name="ReactJSTrainer">ReactJS is being Trained by \nS Rajesh Kumar</string>
+    <string name="EthicalHackingTrainer">EH is being Trained by \nS Rajesh Kumar</string>
+    <string name="ITILTrainer">Java is being Trained by \nS Rajesh Kumar</string>
+    <string name="Prince2Trainer">Prince2 is being Trained by \nS Rajesh Kumar</string>
+    <string name="MachineLearningTrainer">MachineLearning is being Trained by \nS Rajesh Kumar</string>
+    <string name="MongoTrainer">MOngo is being Trained by \nS Rajesh Kumar</string>
+
 
 
 </resources>
